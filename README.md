@@ -1,2 +1,2 @@
 # ScaryGameGroup1
-Spooky
+Game title: Moth and Mole
